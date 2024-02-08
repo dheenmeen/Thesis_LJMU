@@ -18,7 +18,7 @@ setup(
     name="pvdn",
     version="0.2.0",
     packages=find_packages(),
-    url="https://github.com/larsOhne/pvdn",
+    url="https://github.com/dheenmeen/Thesis_LJMU/blob/main/pvdn-main",
     license="Creative Commons Legal Code ",
     author=
     "Lars Ohnemus, Lukas Ewecker, Ebubekir Asan, Stefan Roos, Simon Isele, Jakob Ketterer, Leopold Müller, and Sascha Saralajew",
